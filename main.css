@@ -21,5 +21,16 @@ th, td {
   border-bottom: 1px solid #ddd;
   font-family: Arial
 }
+<<<<<<< HEAD
 tr:nth-child(odd) {background-color: #f2f2f2;}
   
+=======
+
+div{
+  background-color: darkcyan;
+    text-align: right;
+}
+
+
+>>>>>>> add-header
+>>>>>>> 30a4801 (Saving my CSS changes before merge)
